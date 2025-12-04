@@ -1,8 +1,8 @@
 # 👋 Hello, I'm Zakia Al Kadri
 
 ## 🎯 Data Architect | Machine Learning Researcher | Instructor
-* **📍 Location:** San Angelo, Texas | 🌍 Open to Remote & Global Opportunities
-* **🎓 Education:** M.S. in Computer Science | IBM Data Science Professional Certification
+**📍 Location:** San Angelo, Texas | 🌍 Open to Remote & Global Opportunities
+**🎓 Education:** M.S. in Computer Science | IBM Data Science Professional Certification
 
 I am a Data Architect and Machine Learning enthusiast with experience designing high-impact BI solutions in HIPAA-compliant environments. I specialize in engineering automated ETL workflows, building predictive models, and translating complex data into actionable insights for senior leadership.
 
