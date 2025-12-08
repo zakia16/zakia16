@@ -9,7 +9,7 @@ I am a Data Architect and Machine Learning enthusiast with experience designing 
 ---
 
 ## ⚙️ Featured Projects
-### 🖥️ GitHub Projects (zakia16)
+### 🖥️ GitHub Projects
 Explore my repositories for projects in:
 * **Predictive Analytics & Machine Learning:** Classification, Regression, and Time-Series modeling.
 * **Web Scraping:** Data acquisition using Python.
