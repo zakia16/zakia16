@@ -6,42 +6,41 @@
 ---
 ## ⚙️ Featured Projects
 
-### 🔹 Data Science & Analytics Projects
+### 🔹 Data Science & Business Analytics Projects
 | Project | Focus / Tech Stack | Description |
 | :--- | :--- | :--- |
 | [Cashflow-Forecast-Dashboard](https://github.com/zakia16/Cashflow-Forecast-Dashboard) | Power BI, Financial Analytics | Cash flow forecasting and analytics dashboard analyzing actual vs forecast performance, weekly trends, and key financial KPIs to support business decision-making. |
-| [fastapi--heart-disease-classifier](https://github.com/zakia16/fastapi--heart-disease-classifier) | FastAPI, Python, ML Deployment | Production-style REST API serving a trained machine learning model to predict heart disease risk, demonstrating end-to-end model deployment and API design. |
+| [fastapi--heart-disease-classifier](https://github.com/zakia16/fastapi--heart-disease-classifier) | FastAPI, Python, ML Deployment | Production-ready REST API serving a trained ML model to predict heart disease risk, demonstrating end-to-end model deployment and API design. |
 | [daily-advice-fetcher](https://github.com/zakia16/daily-advice-fetcher) | Python, n8n, Automation | Automated data pipeline that fetches and delivers daily advice using APIs and scheduled workflow orchestration. |
-| [Machine-Learning-Projects](https://github.com/zakia16/Machine-Learning-Projects) | Machine Learning, Python, Jupyter | Curated collection of machine learning projects covering classification, regression, and clustering with full data preprocessing and model evaluation. |
+| [Machine-Learning-Projects](https://github.com/zakia16/Machine-Learning-Projects) | Machine Learning, Python, Jupyter | Curated collection of ML projects covering classification, regression, and clustering, including data preprocessing, feature engineering, and model evaluation. |
 | [IBM-DataScience-Capstone](https://github.com/zakia16/IBM-DataScience-Capstone) | Python, Data Analysis, ML | Capstone project applying data analysis, visualization, and predictive modeling techniques to a real-world dataset. |
 | [Stock-Data-Analysis-Visualization-](https://github.com/zakia16/Stock-Data-Analysis-Visualization-) | Python, Data Visualization | Exploratory analysis and visualizations of stock market data to identify trends and patterns. |
-| [Mini-Project](https://github.com/zakia16/Mini-Project) | Python, Jupyter | Small-scale data analysis or machine learning experimentation project. |
-| [Page-Ranking](https://github.com/zakia16/Page-Ranking) | Algorithms, Data Science< Matlab | Implementation and experimentation with page ranking algorithms and ranking concepts. |
 
 ---
 
-### 🔹 NLP & Machine Learning Foundations
+### 🔹 Machine Learning & Algorithm
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
-| [Naive-Bayes](https://github.com/zakia16/Naive-Bayes) | MATLAB, ML | Implementation of the Naive Bayes algorithm for classification tasks. |
-| [Logistic-Regression](https://github.com/zakia16/Logistic-Regression) | MATLAB, ML | Logistic regression model implementation and experimentation. |
+| [Page-Ranking](https://github.com/zakia16/Page-Ranking) | MATLAB, Algorithms, Graph Theory | Implementation and analysis of PageRank and HITS algorithms using power iteration, including handling spider traps and dead ends in link graphs. |
+| [Naive-Bayes](https://github.com/zakia16/Naive-Bayes) | MATLAB, Machine Learning | Implementation of the Naive Bayes classification algorithm with experimental evaluation. |
+| [Logistic-Regression](https://github.com/zakia16/Logistic-Regression) | MATLAB, Machine Learning | Logistic regression model implementation and performance analysis on structured datasets. |
 
 ---
 
-### 🔹 Web, Backend & Software Engineering
+### 🔹 Web, Backend & Software Engineering Projects
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
 | [Dvd-rental-system](https://github.com/zakia16/Dvd-rental-system) | Object-Oriented Python | DVD rental management system demonstrating OOP concepts and basic business logic. |
-| [Vehicle-buying-selling-website](https://github.com/zakia16/Vehicle-buying-selling-website) | PHP, Web Development | Web application for vehicle buying and selling workflows. |
-| [WebScraping_NewsArticles](https://github.com/zakia16/WebScraping_NewsArticles) | Python, Web Scraping | Automated extraction of news articles from online sources. |
+| [Vehicle-buying-selling-website](https://github.com/zakia16/Vehicle-buying-selling-website) | PHP, Web Development | Web application implementing workflows for vehicle buying and selling. |
+| [WebScraping_NewsArticles](https://github.com/zakia16/WebScraping_NewsArticles) | Python, Web Scraping | Automated extraction and processing of news articles from online sources. |
 
 ---
 
-### 🔹 UI / Design & Miscellaneous
+### 🔹 UI / Design & Miscellaneous Projects
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
 | [AlertMe-Tasks-and-Todos](https://github.com/zakia16/AlertMe-Tasks-and-Todos) | UI/UX Design | Interface design for a task reminder and to-do application. |
-| [Connoisseur](https://github.com/zakia16/Connoisseur) | General Project | Exploratory or experimental project. |
+| [Connoisseur](https://github.com/zakia16/Connoisseur) | General / Experimental | Exploratory or experimental project showcasing creative problem-solving. |
 
 ---
 
