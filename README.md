@@ -4,7 +4,7 @@
 * **📍 Location:** San Angelo, Texas | 🌍 Open to Remote & Global Opportunities
 * **🎓 Education:** M.S. in Computer Science | IBM Data Science Professional Certification
 ---
-## ⚙️ Featured & Additional Projects
+## ⚙️ Featured Projects
 
 This portfolio includes projects spanning data analytics, machine learning, AI agents, backend APIs, and full-stack development.
 
