@@ -6,8 +6,6 @@
 ---
 ## ⚙️ Featured Projects
 
-This portfolio includes projects spanning data analytics, machine learning, AI agents, backend APIs, and full-stack development.
-
 ### 🔹 Data Science & Analytics Projects
 | Project | Focus / Tech Stack | Description |
 | :--- | :--- | :--- |
