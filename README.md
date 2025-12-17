@@ -14,9 +14,7 @@ Explore my repositories for projects in:
 | Project Link | Area/Tech Stack | Project Description |
 | :--- | :--- | :--- |
 | [Machine-Learning-Projects](https://github.com/zakia16/Machine-Learning-Projects) | Machine Learning, Jupyter Notebook | Repository containing various ML projects, likely focused on classification, regression, and model building techniques. |
-| [ai-chatkit](https://github.com/zakia16/ai-chatkit) | Full-Stack AI Agents, LangGraph, FastAPI, Next.js | A full-stack AI agent chat project, built with LangGraph, FastAPI, and Next.js, supporting tool invocation and RAG knowledge base integration. |
 | [fastapi--heart-disease-classifier](https://github.com/zakia16/fastapi--heart-disease-classifier) | ML API Deployment, FastAPI, Python | A FastAPI-powered API for heart disease risk prediction, demonstrating the deployment of a machine learning model into a web service. |
-| [Hands-On-Large-Language-Models](https://github.com/zakia16/Hands-On-Large-Language-Models) | LLMs, NLP | Code and exercises related to working with Large Language Models. |
 | [Yelp-User-Review-Visualization](https://github.com/zakia16/Yelp-User-Review-Visualization) | Python, Data Visualization | Analysis and visualization of Yelp user review data. |
 | [Dvd-rental-system](https://github.com/zakia16/Dvd-rental-system) | Object-Oriented Python | A simple DVD borrowing system developed in Object-Oriented Python. |
 
