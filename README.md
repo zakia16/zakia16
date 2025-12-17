@@ -11,15 +11,15 @@ This portfolio includes projects spanning data analytics, machine learning, AI a
 ### 🔹 Data Science & Analytics Projects
 | Project | Focus / Tech Stack | Description |
 | :--- | :--- | :--- |
-| [Cashflow-Forecast-Dashboard](https://github.com/zakia16/Cashflow-Forecast-Dashboard) | Power BI, Financial Analytics | Business-focused cash flow forecasting dashboard analyzing actual vs forecast values, weekly trends, and financial KPIs to support decision-making. |
-| [fastapi--heart-disease-classifier](https://github.com/zakia16/fastapi--heart-disease-classifier) | FastAPI, Python, ML Deployment | Production-style REST API serving a trained ML model to predict heart disease risk, demonstrating model deployment and API design. |
-| [daily-advice-fetcher](https://github.com/zakia16/daily-advice-fetcher) | Python, n8n, Automation | Automated workflow that fetches and delivers daily advice using APIs and scheduled orchestration. |
-| [Machine-Learning-Projects](https://github.com/zakia16/Machine-Learning-Projects) | Machine Learning, Python, Jupyter Notebook | Collection of end-to-end ML projects covering data preprocessing, model training, and evaluation for classification and regression problems. |
-| [IBM-DataScience-Capstone](https://github.com/zakia16/IBM-DataScience-Capstone) | Python, Data Science | Capstone project applying data analysis, visualization, and modeling techniques to a real-world dataset. |
-| [IBM-Machine-Learning](https://github.com/zakia16/IBM-Machine-Learning) | Python, ML | Machine learning exercises and applied models from IBM coursework. |
-| [Stock-Data-Analysis-Visualization-](https://github.com/zakia16/Stock-Data-Analysis-Visualization-) | Python, Visualization | Analysis and visualization of stock market data to explore trends and patterns. |
-| [Mini-Project](https://github.com/zakia16/Mini-Project) | Python, Jupyter Notebook | Small-scale data or ML experimentation project. |
-| [Page-Ranking](https://github.com/zakia16/Page-Ranking) | Algorithms | Implementation or experimentation with page ranking concepts and algorithms. |
+| [Cashflow-Forecast-Dashboard](https://github.com/zakia16/Cashflow-Forecast-Dashboard) | Power BI, Financial Analytics | Cash flow forecasting and analytics dashboard analyzing actual vs forecast performance, weekly trends, and key financial KPIs to support business decision-making. |
+| [fastapi--heart-disease-classifier](https://github.com/zakia16/fastapi--heart-disease-classifier) | FastAPI, Python, ML Deployment | Production-style REST API serving a trained machine learning model to predict heart disease risk, demonstrating end-to-end model deployment and API design. |
+| [daily-advice-fetcher](https://github.com/zakia16/daily-advice-fetcher) | Python, n8n, Automation | Automated data pipeline that fetches and delivers daily advice using APIs and scheduled workflow orchestration. |
+| [Machine-Learning-Projects](https://github.com/zakia16/Machine-Learning-Projects) | Machine Learning, Python, Jupyter | Curated collection of machine learning projects covering classification, regression, and clustering with full data preprocessing and model evaluation. |
+| [IBM-DataScience-Capstone](https://github.com/zakia16/IBM-DataScience-Capstone) | Python, Data Analysis, ML | Capstone project applying data analysis, visualization, and predictive modeling techniques to a real-world dataset. |
+| [IBM-Machine-Learning](https://github.com/zakia16/IBM-Machine-Learning) | Python, Machine Learning | Applied machine learning models and experiments developed as part of IBM professional coursework. |
+| [Stock-Data-Analysis-Visualization-](https://github.com/zakia16/Stock-Data-Analysis-Visualization-) | Python, Data Visualization | Exploratory analysis and visualizations of stock market data to identify trends and patterns. |
+| [Mini-Project](https://github.com/zakia16/Mini-Project) | Python, Jupyter | Small-scale data analysis or machine learning experimentation project. |
+| [Page-Ranking](https://github.com/zakia16/Page-Ranking) | Algorithms, Data Science | Implementation and experimentation with page ranking algorithms and ranking concepts. |
 
 ---
 
