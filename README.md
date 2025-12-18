@@ -22,7 +22,7 @@
 | :--- | :--- | :--- |
 | [DVD Rental System](https://github.com/zakia16/Dvd-rental-system) | Object-Oriented Python | DVD rental management system demonstrating OOP concepts and basic business logic. |
 | [Vehicle Buying & Selling Website](https://github.com/zakia16/Vehicle-buying-selling-website) | SQL, PHP, HTML, CSS, JavaScript | Web application implementing workflows for vehicle buying and selling. |
-| [News Articles Web Scraper](https://github.com/zakia16/WebScraping_NewsArticles) | Python, Web Scraping | Created an automated web scraping solution to extract, clean, and process news articles from online sources for downstream analysis. |
+| [News Articles Web Scraper](https://github.com/zakia16/WebScraping_NewsArticles) | Python (BeautifulSoup, requests), Web Scraping | Created an automated web scraping solution to extract, clean, and process news articles from online sources for downstream analysis. |
 
 ---
 ### 🔹 UI / Design & Miscellaneous Projects
