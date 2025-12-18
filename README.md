@@ -17,30 +17,27 @@
 | [Stock-Data-Analysis-Visualization-](https://github.com/zakia16/Stock-Data-Analysis-Visualization-) | Python, Data Visualization | Exploratory analysis and visualizations of stock market data to identify trends and patterns. |
 
 ---
+### 🔹 Web, Backend & Software Engineering Projects
+| Project | Tech Stack | Description |
+| :--- | :--- | :--- |
+| [Dvd-rental-system](https://github.com/zakia16/Dvd-rental-system) | Object-Oriented Python | DVD rental management system demonstrating OOP concepts and basic business logic. |
+| [Vehicle-buying-selling-website](https://github.com/zakia16/Vehicle-buying-selling-website) | PHP, HTML, CSS, JavaScript, Web Development | Web application implementing workflows for vehicle buying and selling. |
+| [WebScraping_NewsArticles](https://github.com/zakia16/WebScraping_NewsArticles) | Python, Web Scraping | Automated extraction and processing of news articles from online sources. |
 
+---
+### 🔹 UI / Design & Miscellaneous Projects
+| Project | Tech Stack | Description |
+| :--- | :--- | :--- |
+| [AlertMe-Tasks-and-Todos](https://github.com/zakia16/AlertMe-Tasks-and-Todos) | UI/UX Design, Java | Interface design for a task reminder and to-do application. |
+| [Connoisseur](https://github.com/zakia16/Connoisseur) | Web Development  | Exploratory or experimental project showcasing creative problem-solving. |
+
+---
 ### 🔹 Machine Learning & Algorithm
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
 | [Page-Ranking](https://github.com/zakia16/Page-Ranking) | MATLAB, Algorithms, Graph Theory | Implementation and analysis of PageRank and HITS algorithms using power iteration, including handling spider traps and dead ends in link graphs. |
 | [Naive-Bayes](https://github.com/zakia16/Naive-Bayes) | MATLAB, Machine Learning | Implementation of the Naive Bayes classification algorithm with experimental evaluation. |
 | [Logistic-Regression](https://github.com/zakia16/Logistic-Regression) | MATLAB, Machine Learning | Logistic regression model implementation and performance analysis on structured datasets. |
-
----
-
-### 🔹 Web, Backend & Software Engineering Projects
-| Project | Tech Stack | Description |
-| :--- | :--- | :--- |
-| [Dvd-rental-system](https://github.com/zakia16/Dvd-rental-system) | Object-Oriented Python | DVD rental management system demonstrating OOP concepts and basic business logic. |
-| [Vehicle-buying-selling-website](https://github.com/zakia16/Vehicle-buying-selling-website) | PHP, Web Development | Web application implementing workflows for vehicle buying and selling. |
-| [WebScraping_NewsArticles](https://github.com/zakia16/WebScraping_NewsArticles) | Python, Web Scraping | Automated extraction and processing of news articles from online sources. |
-
----
-
-### 🔹 UI / Design & Miscellaneous Projects
-| Project | Tech Stack | Description |
-| :--- | :--- | :--- |
-| [AlertMe-Tasks-and-Todos](https://github.com/zakia16/AlertMe-Tasks-and-Todos) | UI/UX Design | Interface design for a task reminder and to-do application. |
-| [Connoisseur](https://github.com/zakia16/Connoisseur) | General / Experimental | Exploratory or experimental project showcasing creative problem-solving. |
 
 ---
 
