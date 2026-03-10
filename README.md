@@ -1,7 +1,7 @@
-# 👋 Hello, I'm Zakia Al Kadri
+# Hello, I'm Zakia Al Kadri
 
 ## 🎯 Data Scientist | Machine Learning Researcher | Instructor
-* **📍 Location:** San Angelo, Texas | 🌍 Open to Remote & Global Opportunities
+* **📍 Location:** San Angelo, Texas | 
 * **🎓 Education:** M.S. in Computer Science | IBM Data Science Professional Certification
 ---
 ## ⚙️ Featured Projects
